@@ -152,7 +152,7 @@
                 <version>${jetty.version}</version>
                 <configuration>
                     <httpConnector>
-                        <port>8080</port>
+                        <port>80</port>
                     </httpConnector>
                     <stopKey>stop</stopKey>
                     <stopPort>5500</stopPort>
